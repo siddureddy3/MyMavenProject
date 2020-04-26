@@ -10,7 +10,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("Aqua1.jpeg");
+  background-image: url("Aqua.jpg");
 
   /* Full height */
   height: 100%; 
